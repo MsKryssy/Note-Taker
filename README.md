@@ -28,4 +28,4 @@ For any questions or comments, please contact me via GitHub: [github.com/MsKryss
 
 # Heroku
 
-Click the link here to review on Heroku: 
+Click the link here to review on Heroku: https://warm-gorge-36515.herokuapp.com/notes
