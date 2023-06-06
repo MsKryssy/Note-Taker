@@ -24,7 +24,7 @@ Licensed under the MIT License which can be reviewed by clicking on the badge ab
 
 # Questions
 
-For any questions or comments, please contact me via GitHub: [github.com/MsKryssy].
+For any questions or comments, please contact me via GitHub: [github.com/MsKryssy](https://github.com/github.com/MsKryssy).
 
 # Heroku
 
